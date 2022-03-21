@@ -1,1 +1,1 @@
-[![My languages](https://github-stats-evirunurm.vercel.app/api/langauges.js?username=dishwasher-detergent)](https://github.com/dishwasher-detergent/github-stats)
+[![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=dishwasher-detergent&pie=true&color=white)](https://github.com/evirunurm/github-stats)
